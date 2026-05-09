@@ -175,15 +175,15 @@ This project demonstrates proficiency in:
 # Dashboard Preview
 
 ## Executive Overview
-![image alt](
+![image alt](https://github.com/Seph001/Healthcare-Operations-Revenue-Optimization-Dashboard/blob/61bb19570b61f8ee449b83281f8d5add4b7a21d7/Executive%20Summary.jpeg)
 
 ## Operational Efficiency Intelligence
-![image alt](
+![image alt](https://github.com/Seph001/Healthcare-Operations-Revenue-Optimization-Dashboard/blob/61bb19570b61f8ee449b83281f8d5add4b7a21d7/Operational%20Efficiency.jpeg)
 
 ## Revenue & Insurance Insights
-![image alt](
+![image alt](https://github.com/Seph001/Healthcare-Operations-Revenue-Optimization-Dashboard/blob/61bb19570b61f8ee449b83281f8d5add4b7a21d7/Revenue%20%26%20Insurance%20Insight.jpeg)
 
 ## Predictive & Risk Intelligence
-![image alt](
+![image alt](https://github.com/Seph001/Healthcare-Operations-Revenue-Optimization-Dashboard/blob/61bb19570b61f8ee449b83281f8d5add4b7a21d7/Predictive%20%26%20Risk%20Intelligence.jpeg)
 
 ---
